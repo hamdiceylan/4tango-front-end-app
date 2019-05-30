@@ -18,11 +18,13 @@ const PasswordInput = styled.input.attrs({
 })`
     height:30px;
     margin-bottom: 30px;
+    border:1px solid silver;
 `
 
 const EmailInput = styled.input.attrs({
     type: "text"
 })`
+    border:1px solid silver;
     height:30px;
 `
   

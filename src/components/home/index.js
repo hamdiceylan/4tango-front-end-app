@@ -19,13 +19,6 @@ const ProductDetail = () => {
             <ProductCard />
             <ProductCard />
             <ProductCard />
-            <ProductCard />
-            <ProductCard />
-            <ProductCard />
-            <ProductCard />
-            <ProductCard />
-            <ProductCard />
-            <ProductCard />
         </HomeContainer>
     )
 }
